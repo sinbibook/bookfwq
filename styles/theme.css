@@ -10,8 +10,8 @@
 }
 
 @font-face {
-  font-family: 'YeongjuSeonbi';
-  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/2403@1.0/YEONGJUSeonbiTTF.woff2') format('woff2');
+  font-family: 'JeongseonArirangHon';
+  src: url('https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/JSArirangHON-RegularA1.woff') format('woff');
   font-weight: 400;
   font-display: swap;
 }
@@ -19,8 +19,8 @@
 /* CSS Variables */
 :root {
   --font-ko-main: 'SokchoSeaDotum', sans-serif;
-  --font-ko-sub: 'YeongjuSeonbi', sans-serif;
+  --font-ko-sub: 'JeongseonArirangHon', sans-serif;
   --font-en-main: 'Yellowtail', sans-serif;
-  --color-primary: #F5F5F5;
-  --color-secondary: #1D3A5F;
+  --color-primary: #F5F0E8;
+  --color-secondary: #3E5B45;
 }
