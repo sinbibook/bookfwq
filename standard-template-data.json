@@ -1,7 +1,7 @@
 {
   "metadata": {
-    "version": "1.1.0",
-    "generatedAt": "2026-01-12T05:28:22.654Z",
+    "version": "1.2.0",
+    "generatedAt": "2026-01-12T05:34:13.598Z",
     "templateType": "full_banner_image",
     "propertyId": "c8543381-704d-48e5-8ef3-6bc9f15e3f76",
     "homepageId": "4e5dea43-535a-4af8-b8f2-b66fd5631497"
@@ -428,9 +428,9 @@
         "font": {
           "koSub": {
             "cdn": null,
-            "key": "yeongjuseonbi",
-            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/2403@1.0/YEONGJUSeonbiTTF.woff2",
-            "family": "YeongjuSeonbi"
+            "key": "jeongseonariranghon",
+            "woff2": "https://cdn.jsdelivr.net/gh/projectnoonnu/noonfonts_2001@1.1/JSArirangHON-RegularA1.woff",
+            "family": "JeongseonArirangHon"
           },
           "enMain": {
             "cdn": "https://fonts.googleapis.com/css2?family=Yellowtail&display=swap",
@@ -446,8 +446,8 @@
           }
         },
         "color": {
-          "primary": "#F5F5F5",
-          "secondary": "#1D3A5F"
+          "primary": "#F5F0E8",
+          "secondary": "#3E5B45"
         }
       },
       "popup": {
@@ -625,6 +625,7 @@
           "images": []
         }
       ]
-    }
+    },
+    "id": "4e5dea43-535a-4af8-b8f2-b66fd5631497"
   }
 }
